@@ -1,2 +1,2 @@
 # wikimedia-commons
-artwork for wikimedia commons
+wikimedia commons artwork
