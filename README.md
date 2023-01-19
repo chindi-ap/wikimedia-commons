@@ -1,2 +1,2 @@
 # wikimedia commons artwork
-placeholder for the README
+placeholder for README
